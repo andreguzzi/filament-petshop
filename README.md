@@ -27,6 +27,7 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 criar .env
 
+```bash
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:tacWAOxU6rIXRPZB6G/N8ppphda5tVPR88qtod1NZJc=
@@ -85,7 +86,7 @@ VITE_PUSHER_HOST="${PUSHER_HOST}"
 VITE_PUSHER_PORT="${PUSHER_PORT}"
 VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
 VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
-
+```
 ![image](https://github.com/andreguzzi/filament-petshop/assets/52809806/5cdc0e17-d9dd-4417-aba5-c4f17c1dbf88)
 
 ![image](https://github.com/andreguzzi/filament-petshop/assets/52809806/983cfffa-d1e3-4df5-973a-6666064c9df7)
